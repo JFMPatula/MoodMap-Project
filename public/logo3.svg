@@ -1,0 +1,10 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- White Box -->
+  <rect x="0" y="0" width="200" height="200" fill="transparent" stroke="black" stroke-width="2"/>
+  
+  <!-- First M (centered) -->
+  <text x="45" y="130" font-family="Monospace" font-size="120" fill="black">M</text>
+  
+  <!-- Second M (centered and overlapping) -->
+  <text x="85" y="130" font-family="Monospace" font-size="120" fill="black">M</text>
+</svg>
